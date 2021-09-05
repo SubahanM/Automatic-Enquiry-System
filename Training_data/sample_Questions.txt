@@ -1,0 +1,16 @@
+Hello
+Hi there! How can I help you today
+What do you do
+I am made to give COVID 19 Information
+How are you doing?
+I'm doing great.
+What is COVID-19?
+COVID-19 is the disease caused by a new coronavirus called SARS-CoV-2.  WHO first learned of this new virus on 31 December 2019, following a report of a cluster of cases of ‘viral pneumonia’ in Wuhan, People’s Republic of China.
+What are the Symptoms of COVID-19
+The most common symptoms of COVID-19 are : Fever, Dry Cough, Fatique
+Thank you.
+You're welcome
+How do people get infected with COVID-19?
+The COVID-19 virus is transmitted mainly between people via respiratory droplets and this occurs when a person is in close contact (within 1 metre) with an infected person and exposure to potentially infective respiratory droplets occurs, for example, through coughing or sneezing. Transmission can also occur indirectly by contact with surfaces in the immediate environment or with objects used on or by the infected person.
+What is a novel coronavirus?
+A novel coronavirus (CoV) is a new strain of coronavirus that has not been previously identified in humans.
