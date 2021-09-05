@@ -3,7 +3,9 @@
 These three libraries should be installed in virtual env.
 
 pip install Flask
+
 pip install chatterbot
+
 pip install chatterbot-corpus
 
 After installing these Libraries , we will create a chatbot.py
